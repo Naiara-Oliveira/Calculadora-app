@@ -1,9 +1,11 @@
 var express = require("express");
 var bodyParser = require("body-parser");
-
+var cors = require('cors');
 var expressLoad = require('express-load');
+
 module.exports = function(){
 var app = express();
+app.use(cors());
 app.set("port", 3000);
 app.use(express.static("../Interfaces"));
     app.set('view engine', 'ejs');
