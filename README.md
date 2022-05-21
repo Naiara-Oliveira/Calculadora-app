@@ -23,6 +23,13 @@ Thunder Client é uma extensão de cliente de API Rest leve para VS Code.
 
 ![thunder-client](https://user-images.githubusercontent.com/89230677/169670375-32c1efac-219a-4ee0-a6ae-e754567676a0.gif)
 
+O meu elemento de teste é esse ==> 
+   {
+  "elementos":
+  [
+  10, 2, 2, 0
+ ]
+}
 
 
 
