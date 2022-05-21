@@ -18,9 +18,10 @@ O passo a passo de como rodar o programa
 #################################################
 Testei minhas rotas com Thunder Client
 Thunder Client é uma extensão de cliente de API Rest leve para VS Code.
-![i-09](https://user-images.githubusercontent.com/89230677/169670355-0a163c7a-0558-464d-b58c-8668c42db7bd.gif)
 
 
+
+![thunder-client](https://user-images.githubusercontent.com/89230677/169670375-32c1efac-219a-4ee0-a6ae-e754567676a0.gif)
 
 
 
