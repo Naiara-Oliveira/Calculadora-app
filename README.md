@@ -14,6 +14,16 @@ O passo a passo de como rodar o programa
 5° pra rodar o código você vai digitar no terminal node index.js
 
 
+
+#################################################
+Testei minhas rotas com Thunder Client
+Thunder Client é uma extensão de cliente de API Rest leve para VS Code.
+
+
+
+
+
+
 ############
  O passo a passo de como rodar os testes
 1° Vai instalar também o mocha com com o seguinte comando no terminal npm install --save-dev mocha. O Mocha é um framework de testes unitários simples e bastante prático.
