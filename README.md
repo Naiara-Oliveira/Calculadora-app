@@ -1,14 +1,6 @@
 <h1> Descrição do projeto</h1>
 
 <p>Uma escola quer ensinar seus alunos do Ensino Fundamental I a manusear uma calculadora. A professora de matemática está ensinando as seguintes funções: soma, subtração, multiplicação e divisão, porém, no Ensino Fundamental 2 ensinará porcentagem, raiz quadrada, dentre outros cálculos.
-<p>Uma calculadora capaz de realizar as seguintes operações:</p>
-   
-<h5>Somar</h5>
-<h5>Subtração</h5>
-<h5>Divisão</h5>
-<h5>Porcentagem</h5>
-<h5>Raiz Quadrada</h5>
-
 
 
 <h2>O passo a passo de como rodar o programa</h2>
@@ -23,42 +15,16 @@
 <h1>🔨 Funcionalidades do projeto</h1>
 
 <ul>
-   <li>Funcionalidade 1: Somar ela vai receber  {
-  "elementos":
-  [
-  10, 2, 2, 0
- ]
-}</li>
-   <li>Funcionalidade 2: Subtrair ela vai receber  {
-  "elementos":
-  [
-  10, 2, 2, 0
- ]
-}</li>
-    <li>Funcionalidade 3: multiplicação ela vai receber  {
-  "elementos":
-  [
-  10, 2, 2, 0
- ]
-}</li>
-   
-   <li>Funcionalidade 4: Subtrair ela vai receber  {
-  "elementos":
-  [
-  10, 2, 2, 0
- ]
-}</li>
-    <li>Funcionalidade 5: Divisão ela vai receber  {
-  "elementos":
-  [
-  10, 2, 2, 0
- ]
-}</li>
-   
-    <li>Funcionalidade 6: raiz Quadrada ela vai receber  {
-  "numero1": 8
-}</li>
+   <li>Funcionalidade 1: Somar</li>
+   <li>Funcionalidade 2: Subtrair</li>
+    <li>Funcionalidade 3: multiplicação</li>
+   <li>Funcionalidade 4: Dividir</li>
+    <li>Funcionalidade 5:Porcentagem</li>
+    <li>Funcionalidade 6: raiz</li>
    </ul>
+  <img align="center"  height="90" width="170" src="https://www.calculadora-online.xyz/imagens/calculadora-online.jpg">
+
+   
 <h2>Testei minhas rotas com Thunder Client</h2>
 <h4>Thunder Client é uma extensão de cliente de API Rest leve para VS Code.</h4>
 
@@ -74,6 +40,7 @@ O meu elemento de teste é esse ==>
   10, 2, 2, 0
  ]
 }
+   
 </h4>
 <h1>O passo a passo de como rodar os testes</h1>
  
@@ -85,7 +52,5 @@ O meu elemento de teste é esse ==>
  4° acesse package.json e rode o script na seta depurar ->Depurar "scripts": { "test": "mocha --timeout 2000 --exit" },
 pra rodar os teste vamos digitar no terminal npm run test
 </p>
-
-<img src ="
-
+<img align="center"  height="90" width="170" src="https://i.stack.imgur.com/pFczN.png">
 
