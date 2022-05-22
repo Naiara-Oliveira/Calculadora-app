@@ -30,7 +30,6 @@
 
 
 
-
 ![thunder-client](https://user-images.githubusercontent.com/89230677/169670375-32c1efac-219a-4ee0-a6ae-e754567676a0.gif)
 <h4>
 O meu elemento de teste é esse ==> 
@@ -53,4 +52,9 @@ O meu elemento de teste é esse ==>
 pra rodar os teste vamos digitar no terminal npm run test
 </p>
 <img align="center"  height="90" width="170" src="https://i.stack.imgur.com/pFczN.png">
+<h1>Tecnologias utilizadas</h1>
+<ul>
+   <li>Node.js</li>
+     <li>Visual Studio Code</li>
+</ul>
 
